@@ -21,5 +21,5 @@ Here are some ideas to get you started:
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-![Static Badge](https://img.shields.io/badge/:badgeContent?style=flat&logo=appveyor&logoColor=pink)
+![Python](https://img.shields.io/badge/:badgeContent?style=flat&logo=appveyor&logoColor=pink)
 
